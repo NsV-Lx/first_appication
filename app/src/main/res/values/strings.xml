@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Final_Built</string>
+    <string name="signup">New User?  Signup</string>
+    <string name="title_activity_user_room">user_room</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="balance">Balance</string>
+    <string name="Account">Your Account</string>
+    <string name="Welcome">Welcome Back !</string>
+<string name="pick">Pick a color and TEST YOUR FORTUNE MATE!</string>
+
+    <string name="five">Five</string>
+    <string name="four">Four</string>
+    <string name="three">Three</string>
+    <string name="two">Two</string>
+    <string name="one">One</string>
+</resources>

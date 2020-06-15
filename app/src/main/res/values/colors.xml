@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="dark_violet">#0d2e36</color>
+    <color name="pink_for_five">#8c1799</color>
+    <color name="blue_for_three">#1e6296</color>
+    <color name="lamegreen_for_One">#2b8f6f</color>
+    <color name="for_four">#de940b</color>
+    <color name="for_two">#de0b47</color>
+
+</resources>
